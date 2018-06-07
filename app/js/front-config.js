@@ -1,0 +1,1 @@
+var base_url=22222222;var type=2;var channa="user";
